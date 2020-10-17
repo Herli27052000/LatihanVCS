@@ -15,9 +15,7 @@
 * Selamat, Git sudah terinstal di Windows. Untuk mencobanya,silahkan buka **CMD** atau **PowerShell**, kemudian ketik perintah
 
 ``git --version``
-
-![photo_2020-10-14_02-36-53](https://user-images.githubusercontent.com/72790651/95907712-29266580-0dc6-11eb-819c-89f04a853fc8.jpg)
-
+![Screenshot (4)](https://user-images.githubusercontent.com/72916741/96329697-bfce7d00-1079-11eb-9052-d5c3373ec184.png)
 
 ### Menambahkan Global Config
 * Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi ``user.name dan user.email``
