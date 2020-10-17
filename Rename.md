@@ -130,7 +130,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![photo_2020-10-14_02-49-50 (4)](https://user-images.githubusercontent.com/72790651/95911303-807b0480-0dcb-11eb-9987-3917daf42b1e.jpg)
+![Screenshot (9)](https://user-images.githubusercontent.com/72916741/96330815-aed63980-1082-11eb-8850-49261976de26.png)
 
 ### Kegunaan file README.md
 
