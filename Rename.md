@@ -83,7 +83,8 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![photo_2020-10-14_02-49-49](https://user-images.githubusercontent.com/72790651/95909911-7821ca00-0dc9-11eb-90af-688f07c62aae.jpg)
+![Screenshot (11)](https://user-images.githubusercontent.com/72916741/96331119-e9d96c80-1084-11eb-9bc3-1829540ae513.png)
+
 
 ### Membuat repository server
 
