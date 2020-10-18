@@ -41,7 +41,7 @@
 * `git pull`, perintah untuk mengambil/mendownload perubahan terbaru dari server repository ke local repository
 
 
-### Membuat Reposiotry Local
+### Membuat Repository Local
 
 * Buka direktory aktif, misal: **d:\labs_pemrograman1** (buka menggunakan Windows Explorer)
 * klik kanan pada direktory aktif tersebut, dan pilih menu **Git Bash**, sehingga muncul git bash commad
@@ -52,7 +52,7 @@ $ cd latihan1``
 * direktory aktif menjadi: **d:\labs_pemrograman1\latihan1
 
 
-### Membuat Reposiotry Local
+### Membuat Repository Local
 
 * Jalankan perintah **git init**, untuk membuat repository local.
 `$ git init`
